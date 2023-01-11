@@ -3,8 +3,9 @@ layout: default
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+## Welcome everyone to my training wheels website
 
+I can write all sorts of text here. Who knows if I'll ever add anything of substance. No apologies if I mess this up. Training wheels remember? 
 
 #### Here are some example pages:
 
