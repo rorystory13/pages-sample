@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rory's awesome title
+title: Rory's first but really second cool site
 email: romc5058@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my awesome description for your new site here. I can edit this
+  This is my first awesome description for my new site here. I can edit this
   line in _config.yml. It will appear in the document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
